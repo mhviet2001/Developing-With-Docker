@@ -53,6 +53,7 @@ Step 2: Open mongo-express from browser
     http://localhost:8080
 
 Step 3: Start your nodejs application locally
+
     cd app
     npm install
     node server.js
