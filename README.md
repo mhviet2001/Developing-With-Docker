@@ -46,7 +46,7 @@ Step 7: Access you nodejs application UI from browser
 
 Step 1: Start mongodb and mongo-express
 
-    docker-compose -f docker-compose.yaml up
+    docker-compose -f docker-compose.yml up
 
 Step 2: Open mongo-express from browser
 
